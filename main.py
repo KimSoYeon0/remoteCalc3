@@ -1,5 +1,7 @@
 from add import add_func
 from sub import sub_func
+from mul import mul_func
+from div import div_func
 
 ## 함수
 
