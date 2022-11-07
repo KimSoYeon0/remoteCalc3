@@ -14,3 +14,9 @@ print(num1, '+', num2, '=', res)
 
 res = sub_func(num1, num2)
 print(num1, '-', num2, '=', res)
+
+res = mul_func(num1, num2)
+print(num1, '*', num2, '=', res)
+
+res = div_func(num1, num2)
+print(num1, '/', num2, '=', res)
